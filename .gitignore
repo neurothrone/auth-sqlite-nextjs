@@ -4,6 +4,10 @@
 .idea
 .vscode
 
+# Prisma specific files
+/prisma/*.db
+/prisma/*.db-journal
+
 # dependencies
 /node_modules
 /.pnp
